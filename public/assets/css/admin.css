@@ -1,0 +1,76 @@
+body{
+    height: 100vh;
+}
+
+
+.h-100-p {
+    height: 100%;
+}
+
+
+ul.no-bullets {
+    list-style-type: none; /* Remove bullets */
+}
+
+
+.img-15vh {
+    height: 15vh;
+}
+.img-20vh {
+    height: 20vh;
+}
+.img-30vh {
+    height: 30vh;
+}
+
+a.nav-link.active {
+    color: #7F00FF !important;
+}
+
+.a-round-marks {
+    background: #7F00FF;
+    border-radius: 6px;
+    padding: 5px 12px;
+    color: white;
+    font-size: 12px;
+}
+
+.b-round-marks {
+    background: #bcbe75;
+    border-radius: 6px;
+    padding: 5px 12px;
+    color: black;
+    font-size: 12px;
+}
+
+.active-round-marks {
+    background: #41B06E;
+    border-radius: 6px;
+    padding: 5px 12px;
+    color: white;
+    font-size: 12px;
+}
+
+.disabled-round-marks {
+    background: #E72929;
+    border-radius: 6px;
+    padding: 5px 12px;
+    color: white;
+    font-size: 12px;
+}
+
+.btn-boston {
+    background: #4793AF;
+    color: white;
+}
+
+.edit-round-marks {
+    background: #4793AF;
+    border-radius: 6px;
+    padding: 5px 12px;
+    color: white;
+    font-size: 10px;
+}
+.no-underline {
+    text-decoration: none;
+}
